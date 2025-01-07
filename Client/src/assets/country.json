@@ -1,0 +1,296 @@
+[
+  {
+    "country": "Brunei",
+    "langCode": "ms",
+    "currencyCode": "BND",
+    "flag": "BN"
+  },
+  {
+    "country": "Cambodia",
+    "langCode": "km",
+    "currencyCode": "KHR",
+    "flag": "KH"
+  },
+  {
+    "country": "Indonesia",
+    "langCode": "id",
+    "currencyCode": "IDR",
+    "flag": "ID"
+  },
+  {
+    "country": "Laos",
+    "langCode": "lo",
+    "currencyCode": "LAK",
+    "flag": "LA"
+  },
+  {
+    "country": "Malaysia",
+    "langCode": "ms",
+    "currencyCode": "MYR",
+    "flag": "MY"
+  },
+  {
+    "country": "Myanmar",
+    "langCode": "my",
+    "currencyCode": "MMK",
+    "flag": "MM"
+  },
+  {
+    "country": "Philippines",
+    "langCode": "fil",
+    "currencyCode": "PHP",
+    "flag": "PH"
+  },
+  {
+    "country": "Singapore",
+    "langCode": "en",
+    "currencyCode": "SGD",
+    "flag": "SG"
+  },
+  {
+    "country": "Thailand",
+    "langCode": "th",
+    "currencyCode": "THB",
+    "flag": "TH"
+  },
+  {
+    "country": "Vietnam",
+    "langCode": "vi",
+    "currencyCode": "VND",
+    "flag": "VN"
+  },
+  {
+    "country": "Albania",
+    "langCode": "sq",
+    "currencyCode": "ALL",
+    "flag": "AL"
+  },
+  {
+    "country": "Bangladesh",
+    "langCode": "bn",
+    "currencyCode": "BDT",
+    "flag": "BD"
+  },
+  {
+    "country": "Bulgaria",
+    "langCode": "bg",
+    "currencyCode": "BGN",
+    "flag": "BG"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "langCode": "bs",
+    "currencyCode": "BAM",
+    "flag": "BA"
+  },
+  {
+    "country": "Brazil",
+    "langCode": "pt",
+    "currencyCode": "BRL",
+    "flag": "BR"
+  },
+  {
+    "country": "Canada",
+    "langCode": "en",
+    "currencyCode": "CAD",
+    "flag": "CA"
+  },
+  {
+    "country": "China",
+    "langCode": "zh-CN",
+    "currencyCode": "CNY",
+    "flag": "CN"
+  },
+  {
+    "country": "Croatia",
+    "langCode": "hr",
+    "currencyCode": "HRK",
+    "flag": "HR"
+  },
+  {
+    "country": "Czech Republic",
+    "langCode": "cs",
+    "currencyCode": "CZK",
+    "flag": "CZ"
+  },
+  {
+    "country": "Denmark",
+    "langCode": "da",
+    "currencyCode": "DKK",
+    "flag": "DK"
+  },
+  {
+    "country": "Estonia",
+    "langCode": "et",
+    "currencyCode": "EUR",
+    "flag": "EE"
+  },
+  {
+    "country": "English",
+    "langCode": "en",
+    "currencyCode": "GBP",
+    "flag": "GB"
+  },
+  {
+    "country": "Finland",
+    "langCode": "fi",
+    "currencyCode": "EUR",
+    "flag": "FI"
+  },
+  {
+    "country": "France",
+    "langCode": "fr",
+    "currencyCode": "EUR",
+    "flag": "FR"
+  },
+  {
+    "country": "Germany",
+    "langCode": "de",
+    "currencyCode": "EUR",
+    "flag": "DE"
+  },
+  {
+    "country": "Hungary",
+    "langCode": "hu",
+    "currencyCode": "HUF",
+    "flag": "HU"
+  },
+  {
+    "country": "India",
+    "langCode": "hi",
+    "currencyCode": "INR",
+    "flag": "IN"
+  },
+  {
+    "country": "Iran",
+    "langCode": "fa",
+    "currencyCode": "IRR",
+    "flag": "IR"
+  },
+  {
+    "country": "Ireland",
+    "langCode": "ga",
+    "currencyCode": "EUR",
+    "flag": "IE"
+  },
+  {
+    "country": "Israel",
+    "langCode": "he",
+    "currencyCode": "ILS",
+    "flag": "IL"
+  },
+  {
+    "country": "Italy",
+    "langCode": "it",
+    "currencyCode": "EUR",
+    "flag": "IT"
+  },
+  {
+    "country": "Japan",
+    "langCode": "ja",
+    "currencyCode": "JPY",
+    "flag": "JP"
+  },
+  {
+    "country": "Latvia",
+    "langCode": "lv",
+    "currencyCode": "EUR",
+    "flag": "LV"
+  },
+  {
+    "country": "Lithuania",
+    "langCode": "lt",
+    "currencyCode": "EUR",
+    "flag": "LT"
+  },
+  {
+    "country": "Netherlands",
+    "langCode": "nl",
+    "currencyCode": "EUR",
+    "flag": "NL"
+  },
+  {
+    "country": "North Macedonia",
+    "langCode": "mk",
+    "currencyCode": "MKD",
+    "flag": "MK"
+  },
+  {
+    "country": "Norway",
+    "langCode": "no",
+    "currencyCode": "NOK",
+    "flag": "NO"
+  },
+  {
+    "country": "Pakistan",
+    "langCode": "pa",
+    "currencyCode": "PKR",
+    "flag": "PK"
+  },
+  {
+    "country": "Romania",
+    "langCode": "ro",
+    "currencyCode": "RON",
+    "flag": "RO"
+  },
+  {
+    "country": "Russia",
+    "langCode": "ru",
+    "currencyCode": "RUB",
+    "flag": "RU"
+  },
+  {
+    "country": "Saudi Arabia",
+    "langCode": "ar",
+    "currencyCode": "SAR",
+    "flag": "SA"
+  },
+  {
+    "country": "Serbia",
+    "langCode": "sr",
+    "currencyCode": "RSD",
+    "flag": "RS"
+  },
+  {
+    "country": "Slovakia",
+    "langCode": "sk",
+    "currencyCode": "EUR",
+    "flag": "SK"
+  },
+  {
+    "country": "Slovenia",
+    "langCode": "sl",
+    "currencyCode": "EUR",
+    "flag": "SI"
+  },
+  {
+    "country": "South Korea",
+    "langCode": "ko",
+    "currencyCode": "KRW",
+    "flag": "KR"
+  },
+  {
+    "country": "Spain",
+    "langCode": "es",
+    "currencyCode": "EUR",
+    "flag": "ES"
+  },
+  {
+    "country": "Tanzania",
+    "langCode": "sw",
+    "currencyCode": "TZS",
+    "flag": "TZ"
+  },
+  {
+    "country": "Turkey",
+    "langCode": "tr",
+    "currencyCode": "TRY",
+    "flag": "TR"
+  },
+  {
+    "country": "Ukraine",
+    "langCode": "uk",
+    "currencyCode": "UAH",
+    "flag": "UA"
+  }
+]

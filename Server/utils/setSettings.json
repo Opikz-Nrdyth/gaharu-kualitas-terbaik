@@ -1,0 +1,119 @@
+{
+  "foto_company": [
+    "https://api.agarwoodquality.asia/images/settings/foto_company-1728485071187-799636461.jpg"
+  ],
+  "nama_company": "Gaharu kualitas terbaik",
+  "nama_pemilik": "Penyedia Gaharu",
+  "alamat": "Jl. Kabupaten 2-5, Kranggahan I, Trihanggo, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55291",
+  "intregrate_pembayaran": [
+    {
+      "logo": "https://i.pinimg.com/1200x/fe/ce/b2/feceb2ca508603b06c2f7ba18a5d018d.jpg",
+      "nama": "GOPAY"
+    },
+    {
+      "logo": "https://mms.img.susercontent.com/1b726ec61d3c0030be46d48bcfed4bc5",
+      "nama": "SHOPEE PAY"
+    },
+    {
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png",
+      "nama": "PAYPAL"
+    },
+    {
+      "logo": "https://i.pinimg.com/originals/98/88/27/988827ba70ba45ec5fb9c36423d8d09e.jpg",
+      "nama": "QRIS"
+    }
+  ],
+  "intregrate_pengiriman": [
+    {
+      "logo": "https://pbs.twimg.com/profile_images/1630729716033536000/K1kvfSjg_400x400.jpg",
+      "nama": "SICEPAT"
+    },
+    {
+      "logo": "https://seeklogo.com/images/J/jt-cargo-logo-C5697353BC-seeklogo.com.png",
+      "nama": "J&T CARGO"
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD2uZhCj2AEoM0ZnLJesup7tC84bTzo-fw3Q&s",
+      "nama": "JASKIPIN"
+    }
+  ],
+  "nomer_whatsapp_bisnis": "+6281234567890",
+  "link_grup": "https://chat.whatsapp.com/HNr4VO5J8TsEmfs3bVP0BY",
+  "akun_sosmed_lainnya": {
+    "instagram": "@opikstudio",
+    "facebook": "OpikStudio",
+    "twitter": "@opikStudio"
+  },
+  "fake_invoice": true,
+  "username_admin": "Admin",
+  "password_admin": "Admin123",
+  "avcance_settings": {
+    "header": {
+      "background": "#058da8",
+      "text": "#fffbeb",
+      "opacity": "1",
+      "backgroundImages": ""
+    },
+    "backgroundContent": {
+      "background": "#f1efdf",
+      "text": "#78350f"
+    },
+    "primaryButton": {
+      "background": "#93340b",
+      "text": "#fffbeb",
+      "hover": {
+        "background": "#d97706",
+        "text": "#fffbeb"
+      }
+    },
+    "secondaryButton": {
+      "background": "#0497c8",
+      "text": "#fffbeb",
+      "hover": {
+        "background": "#eab308",
+        "text": "#78350f"
+      }
+    },
+    "cardProduct": {
+      "background": "#8786e4",
+      "text": "#f6f8f8"
+    },
+    "aksenButton": {
+      "background": "#db065b",
+      "text": "#fffbeb",
+      "hover": {
+        "background": "#b86302",
+        "text": "#fffbeb"
+      }
+    },
+    "deniedButton": {
+      "background": "#d93406",
+      "text": "#fffbeb",
+      "hover": {
+        "background": "#b52d07",
+        "text": "#fffbeb"
+      }
+    },
+    "primaryColor": {
+      "background": "#127fb5",
+      "text": "#fffbeb"
+    },
+    "secondaryColor": {
+      "background": "#fde68a",
+      "text": "#d97706"
+    },
+    "popupColor": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "userText": "#00a2c2"
+    },
+    "inputColor": {
+      "background": "#fbecda",
+      "text": "#b52d07"
+    },
+    "text": {
+      "primary": "#78350f",
+      "secondary": "#78350f"
+    }
+  }
+}

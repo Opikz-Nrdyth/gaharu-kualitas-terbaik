@@ -1,0 +1,86 @@
+.popup {
+  position: fixed;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 15px;
+  text-align: left;
+  z-index: 1000;
+  transition: all 0.3s ease-out;
+  opacity: 0;
+  right: -100%; /* Start outside the viewport */
+  bottom: 17vh; /* Set position from the bottom */
+}
+
+.queue-count {
+  position: absolute;
+  bottom: -10px;
+  right: 10px;
+  background-color: #f44336;
+  color: white;
+  border-radius: 10px;
+  padding: 2px 8px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+/* Desktop styles */
+@media (min-width: 769px) {
+  .popup {
+    right: -100%; /* Initial position, outside the viewport */
+    bottom: 17vh; /* Adjust based on your desired position */
+  }
+
+  .popup.show {
+    right: 20px; /* Slide into view from the right */
+    opacity: 1;
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .popup {
+    right: -100%;
+    bottom: 17vh;
+    max-width: 90%;
+    width: 190px;
+  }
+
+  .popup.show {
+    right: 10px; /* Slide into view from the right on mobile */
+    opacity: 1;
+  }
+}
+
+.popup-header {
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.popup-content {
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+/* Smaller font size for mobile */
+@media (max-width: 768px) {
+  .popup-header {
+    font-size: 0.9em;
+  }
+
+  .popup-content {
+    font-size: 0.8em;
+  }
+}

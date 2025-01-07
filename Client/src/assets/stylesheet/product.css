@@ -1,0 +1,11 @@
+@keyframes runningText {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.running-text {
+  animation: runningText 6s linear infinite;
+}

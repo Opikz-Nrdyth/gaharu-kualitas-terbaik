@@ -1,0 +1,81 @@
+{
+  "foto_company": [],
+  "nama_company": "",
+  "nama_pemilik": "",
+  "alamat": "",
+  "intregrate_pembayaran": [],
+  "intregrate_pengiriman": [],
+  "nomer_whatsapp_bisnis": "",
+  "akun_sosmed_lainnya": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "username_admin": "",
+  "password_admin": "",
+  "slide_shows": [],
+  "avcance_settings": {
+    "header": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "backgroundImages": "",
+      "opacity": ""
+    },
+    "backgroundContent": {
+      "background": "#ffffff",
+      "text": "#000000"
+    },
+    "primaryButton": {
+      "background": "#000000",
+      "text": "#ffffff",
+      "hover": {
+        "background": "#333333",
+        "text": "#ffffff"
+      }
+    },
+    "secondaryButton": {
+      "background": "#cccccc",
+      "text": "#000000",
+      "hover": {
+        "background": "#dddddd",
+        "text": "#000000"
+      }
+    },
+    "cardProduct": {
+      "background": "#ffffff",
+      "text": "#000000"
+    },
+    "aksenButton": {
+      "background": "#000000",
+      "text": "#ffffff",
+      "hover": {
+        "background": "#333333",
+        "text": "#ffffff"
+      }
+    },
+    "deniedButton": {
+      "background": "#ff0000",
+      "text": "#ffffff",
+      "hover": {
+        "background": "#cc0000",
+        "text": "#ffffff"
+      }
+    },
+    "primaryColor": {
+      "background": "#000000",
+      "text": "#ffffff"
+    },
+    "secondaryColor": {
+      "background": "#cccccc",
+      "text": "#000000"
+    },
+    "inputColor": {
+      "background": "#ffffff",
+      "text": "#000000"
+    },
+    "text": {
+      "primary": "#78350f",
+      "secondary": "#78350f"
+    }
+  }
+}
